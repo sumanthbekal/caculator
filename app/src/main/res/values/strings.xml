@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">caculator</string>
+    <string name="c">C</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="divide">/</string>
+    <string name="_0">0</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_6">6</string>
+</resources>
